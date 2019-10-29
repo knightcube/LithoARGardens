@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FF3616E6-4CAC-71E1-088E-A4F539E4E942}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../litho-beta-2019-10-28-v0-4-3/Core/Scripts/Interaction/Manipulators/ItemSpawner.cs">
+    <Files>
+      <File FileName="../../litho-beta-2019-10-16-v0-4-2/Core/Scripts/Interaction/Manipulables/Selectable.cs" Line="17" Column="34" />
+      <File FileName="../../litho-beta-2019-10-16-v0-4-2/Core/Scripts/Interaction/Manipulables/Manipulable.cs" />
+      <File FileName="../../litho-beta-2019-10-16-v0-4-2/Core/Scripts/Interaction/Manipulables/ManipulatorUnityEventForwarder.cs" />
+      <File FileName="Assets/Shaders/HighlightingShader.shader" />
+      <File FileName="../../litho-beta-2019-10-28-v0-4-3/Core/Scripts/Interaction/Manipulators/ItemSpawner.cs" Line="36" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ARFarming" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="Shaders" expanded="True">
+                <Node name="HighlightingShader.shader" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5fe5ce5d-74d8-4476-9aee-bb06a842df43" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
